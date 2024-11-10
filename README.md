@@ -1,7 +1,7 @@
 # Tennis-Analysis
 
 
-A Tennis analysis project that leverages advanced machine learning and computer vision techniques to analyze tennis gameplay. This project detects players and the tennis ball using YOLO and utilizes Convolutional Neural Networks (CNNs) to extract court keypoints using Pytorch. It measures player speed, ball shot speed, and the number of shots, making it an excellent project for honing my machine learning and computer vision skills.
+A Tennis analysis project that leverages advanced deep learning and computer vision techniques to analyze tennis gameplay. This project detects players and the tennis ball using YOLO and utilizes Convolutional Neural Networks (CNNs) to extract court keypoints using Pytorch. It measures player speed, ball shot speed, and the number of shots, making it an excellent project for honing my machine learning and computer vision skills.
 
 ##Features
 
